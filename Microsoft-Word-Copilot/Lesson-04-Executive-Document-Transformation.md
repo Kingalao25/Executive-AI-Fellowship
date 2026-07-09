@@ -2,7 +2,7 @@
 
 ## Objective
 
-Learn how to transform a single executive document into multiple communication products for different audiences while preserving strategic messaging, factual accuracy, and institutional consistency.---
+Learn how to transform a single executive document into multiple communication products for different audiences while preserving strategic messaging, factual accuracy, and institutional consistency.
 
 ## Exercises Completed
 
@@ -30,9 +30,6 @@ Created an executive FAQ explaining accreditation, reaffirmation, institutional 
 - AI-assisted document transformation
 - Executive writing
 - Institutional storytelling
-- 
-
-
 ## Executive Insight
 
 Executive leaders rarely create entirely new documents. Instead, they transform one authoritative source into multiple communication products tailored to different audiences while maintaining consistency, credibility, and strategic alignment.
@@ -48,7 +45,7 @@ Application at Morgan State University:
 - University press releases
 - Campus announcements
 - Frequently Asked Questions
-- Strategic communications---
+- Strategic communications
 
 ## Portfolio Evidence
 
@@ -85,4 +82,4 @@ Microsoft Word Copilot
 
 ## Reflection
 
-This lesson demonstrated that executive communication is audience-centered rather than document-centered. A single strategic document can serve as the foundation for multiple executive communication products when AI is guided with clear objectives and professional judgment.
+This lesson demonstrated that effective executive communication is audience-centered rather than document-centered. A single strategic document can serve as the foundation for multiple executive communication products when AI is guided by clear objectives, institutional context, and executive judgment.
