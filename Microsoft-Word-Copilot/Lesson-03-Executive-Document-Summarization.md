@@ -34,3 +34,14 @@ Include:
 - Executive Takeaways
 
 Write in a concise executive style suitable for senior university leadership.
+## Time to Complete
+
+45 minutes
+
+## AI Tool
+
+Microsoft Word Copilot
+
+## Confidence Level
+
+★★★★★ (5/5) 
