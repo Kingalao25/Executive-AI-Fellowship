@@ -6,7 +6,7 @@ Learn to compress executive documents while preserving strategic meaning and dec
 
 ## Exercise Completed
 
-Reduced a one-page executive briefing by approximately 30% without losing recommendations, risks, or strategic implications.
+Compressed a one-page executive briefing into a shorter, decision-ready document while preserving all strategic recommendations, identified risks, and executive actions.
 
 ## Skills Practiced
 
