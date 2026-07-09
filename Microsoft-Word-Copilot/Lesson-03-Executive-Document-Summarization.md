@@ -18,3 +18,19 @@ Executive summarization is not about making documents shorter—it is about iden
 
 - Lesson-03-Executive-Summary.docx
 - Prompt for Lesson 03.docx
+## Prompt Used
+
+Create a one-page executive briefing from the attached accreditation document.
+
+Audience:
+President and Cabinet.
+
+Include:
+- Purpose
+- Key Findings
+- Strategic Implications
+- Risks
+- Recommended Actions
+- Executive Takeaways
+
+Write in a concise executive style suitable for senior university leadership.
